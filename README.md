@@ -1,5 +1,11 @@
 ﻿# Odoo Production Bug Triage Toolkit
 
+[![Odoo](https://img.shields.io/badge/Odoo-16%2B-5E2750)](https://www.odoo.com/)
+[![License: LGPL-3.0](https://img.shields.io/badge/License-LGPL--3.0-blue.svg)](./LICENSE)
+[![Status](https://img.shields.io/badge/Status-Portfolio_Ready-brightgreen)](#)
+[![Last Commit](https://img.shields.io/github/last-commit/abelfree/odoo-production-bug-triage-toolkit)](https://github.com/abelfree/odoo-production-bug-triage-toolkit/commits/master)
+
+
 ## Problem
 Production incidents in Odoo environments need fast triage, reliable documentation, and safe mitigations. Ad hoc incident handling leads to repeat outages.
 
@@ -27,3 +33,11 @@ This project introduces a structured incident model and a practical SQL slow-log
 - How standard triage data improves post-incident analysis.
 - Practical ways to reduce blocker resolution time.
 - Safe hotfix workflow expectations for ERP systems.
+
+
+## Screenshots
+
+![Project Screenshot](assets/screenshots/placeholder.svg)
+
+Replace ssets/screenshots/placeholder.svg with real screenshots from your Odoo demo environment.
+
