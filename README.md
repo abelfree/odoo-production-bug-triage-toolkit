@@ -35,9 +35,4 @@ This project introduces a structured incident model and a practical SQL slow-log
 - Safe hotfix workflow expectations for ERP systems.
 
 
-## Screenshots
-
-![Project Screenshot](assets/screenshots/placeholder.svg)
-
-Replace ssets/screenshots/placeholder.svg with real screenshots from your Odoo demo environment.
 
